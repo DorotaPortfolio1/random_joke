@@ -1,5 +1,8 @@
-body { background-color: #bacfd1; width: 600px; margin: 0 auto; }
+body { background-image: url("https://images.pexels.com/photos/12211/pexels-photo-12211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"); 
+  background-size: auto;
+  background-position: center;
+  width: 600px; margin: 0 auto; }
 
-button { width: 200px; height: 30px; border-radius: 20px; display: block; text-align: center; margin: 100px auto; background-color: #d89eb3; }
+button { width: 100px; height: 50px; border-radius: 10px; display: block; text-align: center; margin: 100px auto; background-color: white; }
 
-p { text-align: center; border: 2px solid none; border-radius: 10px; background-color: #3494d8; padding: 10px; }
+p { text-align: center; width: 400px; height: 60px; border: 2px solid none; border-radius: 10px; background-color: #3494d8; padding: 10px; }
