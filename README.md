@@ -1,1 +1,1 @@
-https://more2see.github.io/zadanie12_4/
+https://dorotaportfolio1.github.io/random_joke/
