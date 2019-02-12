@@ -1,5 +1,8 @@
-body { background-image: url("https://images.pexels.com/photos/12211/pexels-photo-12211.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"); background-size: auto; background-position: center; width: 600px; margin: 0 auto; }
+@import url("https://fonts.googleapis.com/css?family=Russo+One");
+* { box-sizing: border-box; font-family: 'Russo One', sans-serif; }
 
-button { width: 100px; height: 50px; border-radius: 10px; display: block; text-align: center; margin: 100px auto; background-color: white; }
+body { background: url("https://images.pexels.com/photos/1115680/pexels-photo-1115680.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"); background-size: cover; background-position: center; background-repeat: no-repeat; }
 
-p { text-align: center; width: 400px; height: 60px; border: 2px solid none; border-radius: 10px; background-color: #3494d8; padding: 10px; }
+button { width: 40%; height: 50px; border-radius: 10px; display: block; text-align: center; margin: 5% 30%; background-color: #E0B84B; cursor: pointer; }
+
+p { text-align: center; width: 60%; height: 100px; margin: 10% 20% 30% 20%; border: 2px solid none; border-radius: 10px; background-color: #D91537; padding: 20px; }
